@@ -1,14 +1,28 @@
-# boilerplate-infosec
+<!-- xonettn -->
+<div align="center">
+
+# 🔒 Boilerplate Infosec
+
+boilerplate-infosec/
+
+
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+
+![Deploy](https://img.shields.io/badge/Deployed-Netlify-00C7B7?logo=netlify&logoColor=white)
+
+</div>
+
+---
 
 A boilerplate for the freeCodeCamp curriculum.
 
-## Overview
+## 📋 Overview
 A boilerplate for the freeCodeCamp curriculum.
 
-## Tech Stack
+## 📦 Tech Stack
 - Express
 
-## Project Structure
+## 🗂️ Project Structure
 ```
 boilerplate-infosec/
   - public
@@ -16,33 +30,33 @@ boilerplate-infosec/
   (9 files total)
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### 📋 Prerequisites
 - Node.js (v18+)
 - npm or yarn
 
-### Installation
+### 📦 Installation
 ```bash
 git clone https://github.com/1nc0gn30/boilerplate-infosec.git
 cd boilerplate-infosec
 npm install
 ```
 
-### Development
+### 💻 Development
 ```bash
 npm run dev
 ```
 
-### Build
+### 🔨 Build
 ```bash
 npm run build
 ```
 
-### Available Scripts
+### ⚙️ Available Scripts
   npm run start - node myApp.js
 
-## Original README
+## 📂 Original README
 <details>
 <summary>Click to expand original README</summary>
 
@@ -52,7 +66,7 @@ This is the boilerplate for the Information Security lessons. Instructions for c
 
 </details>
 
-## TODO / Roadmap
+## 📝 TODO / Roadmap
 - [ ] Add unit tests
 - [ ] Add LICENSE file
 - [ ] Add Dockerfile for containerized deployment
@@ -64,14 +78,22 @@ This is the boilerplate for the Information Security lessons. Instructions for c
 - [ ] Update dependencies to latest versions
 - [ ] Add code comments and inline documentation
 
-## Deployment
+## 🚀 Deployment
 This project can be deployed to Netlify, Vercel, or any static host.
 
-## Author
+## 👤 Author
 **Neal Frazier** - [@AshAmplifies](https://github.com/1nc0gn30)
 
-## Links
+## 🔗 Links
 - GitHub: https://github.com/1nc0gn30/boilerplate-infosec
 
 ---
 *This README was enhanced as part of the neals-projects-2026 batch update.*
+
+---
+
+<div align="center">
+
+**[xonettn]** · Built by [Neal Frazier](https://github.com/1nc0gn30) · [@AshAmplifies](https://twitter.com/AshAmplifies)
+
+</div>
